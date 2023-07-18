@@ -1,0 +1,17 @@
+body{
+     color: blue;
+   font-family:monospace;
+    }
+  body p{
+      font-size: 30px;
+  }    
+h1{      
+      text-align: center;
+      border: blue 3px solid;
+}
+      
+img{
+    border: blue 5px double;
+    width: 250;
+    height: 250;
+}
